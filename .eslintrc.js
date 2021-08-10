@@ -5,6 +5,7 @@ module.exports = {
     ecmaVersion: 2020,
     sourceType: 'module',
   },
+  // add commit 1 from master
   extends: [
     'standard',
     'plugin:vue/recommended',
